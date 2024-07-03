@@ -1,3 +1,4 @@
 ## Misiones
 
-Investigar donde esta la guarida del Joker
+* Investigar donde esta la guarida del Joker
+* Capturar al Joker
